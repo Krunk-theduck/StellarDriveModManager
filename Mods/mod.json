@@ -1,0 +1,7 @@
+{
+    "id":  "stellardrive-modmanager",
+    "name":  "Mod Manager",
+    "author":  "Krunk",
+    "version":  "1.0.0",
+    "description":  "In game only mod manager for Stellardrive. Handles config, enabling, world and client/host mod mismatch. Needs SDModKit."
+}
