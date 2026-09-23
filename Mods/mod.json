@@ -4,5 +4,6 @@
     "author":  "Krunk",
     "version":  "1.1.0",
     "description":  "In game only mod manager for Stellardrive. Handles config, enabling, world and client/host mod mismatch. Needs SDModKit.",
-    "thumbnail": "thumbnail.png"
+    "thumbnail": "thumbnail.png",
+    "images": "thumbnail.png, image.png"
 }
