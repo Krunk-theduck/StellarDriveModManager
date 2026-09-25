@@ -2,7 +2,7 @@
     "id":  "stellardrive-modmanager",
     "name":  "Mod Manager",
     "author":  "Krunk",
-    "version":  "1.1.0",
+    "version":  "1.1.1",
     "description":  "In game only mod manager for Stellardrive. Handles config, enabling, world and client/host mod mismatch. Needs SDModKit.",
     "thumbnail": "thumbnail.png",
     "images": ["image.png"]
